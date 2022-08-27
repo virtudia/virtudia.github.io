@@ -1,0 +1,18 @@
+{
+  "items": [
+	{
+      "title": "List 1",
+      "imageUrl": "https://asset.virtudia.com/i/placeholder.png",
+	  "url": "https://www.modenyania.com/",
+	  "ratingStars": "4.9",
+	  "productNumber": "1"
+    },
+	{
+      "title": "list 2",
+      "imageUrl": "https://asset.virtudia.com/i/placeholder.png",
+	  "url": "https://www.modenyania.com/",
+	  "ratingStars": "4.6",
+	  "productNumber": "2"
+    }
+  ]
+}
