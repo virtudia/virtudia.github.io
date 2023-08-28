@@ -1,1 +1,0 @@
-allbestview assets
