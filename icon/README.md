@@ -1,1 +1,0 @@
-virtudia icon
